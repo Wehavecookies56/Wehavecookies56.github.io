@@ -30,6 +30,11 @@ body {
   padding-top: 30px;
   padding-bottom: 10px;
 }
+
+.navbar-nav.nav-justified > li.active > a{
+  border: 
+}
+
 .body-header > .container {
   padding: 10px;
 }
